@@ -1,0 +1,19 @@
+{
+  "name": "timeline-app",
+  "version": "1.0.0",
+  "description": "social media timeline app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rkneel5050/timeline-app.git"
+  },
+  "author": "Nilesh Kareliya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rkneel5050/timeline-app/issues"
+  },
+  "homepage": "https://github.com/Rkneel5050/timeline-app#readme"
+}
